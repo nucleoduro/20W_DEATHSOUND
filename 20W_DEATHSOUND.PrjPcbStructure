@@ -1,1 +1,3 @@
-Record=TopLevelDocument|FileName=preamp.SchDoc
+Record=TopLevelDocument|FileName=Amplifier Card.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Amplifier Card.SchDoc|Designator=Preamplifier|SchDesignator=Preamplifier|FileName=Preamp.SchDoc|SymbolType=Normal|RawFileName=Preamp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Amplifier Card.SchDoc|Designator=U_Power Amp|SchDesignator=U_Power Amp|FileName=Power Amp.SchDoc|SymbolType=Normal|RawFileName=Power Amp.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
