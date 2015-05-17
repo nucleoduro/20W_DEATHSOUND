@@ -1,0 +1,22 @@
+Added Component: Designator=Q1(TO-220)
+Added Component: Designator=Q2(TO-220)
+Added Pin To Net: NetName=NetJ4_2 Pin=J4-2
+Added Pin To Net: NetName=NetJ4_2 Pin=Q1-1
+Added Net: Name=NetJ4_2
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=Q2-1
+Added Net: Name=NetJ5_1
+Added Pin To Net: NetName=NetJ6_2 Pin=J6-2
+Added Pin To Net: NetName=NetJ6_2 Pin=Q1-2
+Added Net: Name=NetJ6_2
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=Q2-2
+Added Net: Name=NetJ7_1
+Added Pin To Net: NetName=NetQ1_3 Pin=Q1-3
+Added Pin To Net: NetName=NetQ1_3 Pin=R17-2
+Added Net: Name=NetQ1_3
+Added Pin To Net: NetName=NetQ2_3 Pin=Q2-3
+Added Pin To Net: NetName=NetQ2_3 Pin=R18-1
+Added Net: Name=NetQ2_3
+Added Member To Class: ClassName=Power Amp Member=Component Q1 TIP120
+Added Member To Class: ClassName=Power Amp Member=Component Q2 TIP125

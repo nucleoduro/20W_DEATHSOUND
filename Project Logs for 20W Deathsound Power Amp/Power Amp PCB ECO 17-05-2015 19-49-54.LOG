@@ -1,0 +1,17 @@
+Removed Pin From Net: NetName=NetIC2_6 Pin=J3-1
+Removed Pin From Net: NetName=NetIC2_2 Pin=J3-2
+Removed Pin From Net: NetName=NetJ5_1 Pin=J5-1
+Removed Pin From Net: NetName=NetJ5_2 Pin=J5-2
+Removed Pin From Net: NetName=NetJ7_1 Pin=J7-1
+Removed Pin From Net: NetName=-VCC Pin=J7-2
+Added Pin To Net: NetName=NetIC2_2 Pin=J3-1
+Added Pin To Net: NetName=NetIC2_6 Pin=J3-2
+Added Pin To Net: NetName=NetJ5_2 Pin=J5-1
+Added Pin To Net: NetName=NetJ5_1 Pin=J5-2
+Added Pin To Net: NetName=-VCC Pin=J7-1
+Added Pin To Net: NetName=NetJ7_1 Pin=J7-2
+Change Net Name : Old Net Name=NetJ5_1 New Net Name=NetJ5_2
+Change Net Name : Old Net Name=NetJ5_2 New Net Name=NetJ5_1
+Change Net Name : Old Net Name=NetJ7_1 New Net Name=NetJ7_2
+Added Member To Class: ClassName=Power Amp Member=Component Q1 TIP120
+Added Member To Class: ClassName=Power Amp Member=Component Q2 TIP125

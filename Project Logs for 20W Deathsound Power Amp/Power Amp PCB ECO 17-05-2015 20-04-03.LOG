@@ -1,0 +1,4 @@
+Added Component: Designator=HS1(MC33289)
+Added Component: Designator=HS2(MC33289)
+Added Member To Class: ClassName=Power Amp Member=Component HS1 Heatsink
+Added Member To Class: ClassName=Power Amp Member=Component HS2 Heatsink
