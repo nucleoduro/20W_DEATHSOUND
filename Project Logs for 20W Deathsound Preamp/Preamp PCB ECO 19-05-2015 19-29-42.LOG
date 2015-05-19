@@ -1,0 +1,9 @@
+Added Component: Designator=J3(3 Pin 5mm Terminal Block)
+Added Component: Designator=J4(2 Pin 5mm Terminal Block)
+Added Pin To Net: NetName=VCC Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Pin To Net: NetName=-VCC Pin=J3-3
+Added Pin To Net: NetName=NetC7_2 Pin=J4-1
+Added Pin To Net: NetName=GND Pin=J4-2
+Added Member To Class: ClassName=Preamp Member=Component J3 Power Supply
+Added Member To Class: ClassName=Preamp Member=Component J4 Audio Out

@@ -1,0 +1,11 @@
+Removed Pin From Net: NetName=NetC7_2 Pin=J3-1
+Change Component DesignItemId : Designator=J3 Old DesignItemId=Terminal Block 2 Pin New DesignItemId=Terminal Block 3 Pin
+Change Component Footprint: Designator=J3 Old Footprint=2 Pin 5mm Terminal Block New Footprint=3 Pin 5mm Terminal Block
+Change Component Comment : Designator=J3 Old Comment=Preamp Out New Comment=Supply
+Added Component: Designator=J4(2 Pin 5mm Terminal Block)
+Added Pin To Net: NetName=VCC Pin=J3-1
+Added Pin To Net: NetName=-VCC Pin=J3-3
+Added Pin To Net: NetName=NetC7_2 Pin=J3-1
+Added Pin To Net: NetName=GND Pin=J3-2
+Added Member To Class: ClassName=Preamp Member=Component J4 Preamp Out
+Added Room: Name=Preamp
