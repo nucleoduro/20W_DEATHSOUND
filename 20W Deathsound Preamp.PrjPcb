@@ -104,10 +104,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JROSNVFP
 
-[GeneratedDocument1]
-DocumentPath=Project Outputs for 20W Deathsound Preamp\Design Rule Check - Preamp.html
-DItemRevisionGUID=
-
 [Configuration1]
 Name=Default Configuration
 ParameterCount=0

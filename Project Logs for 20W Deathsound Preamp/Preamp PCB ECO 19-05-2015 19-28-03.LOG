@@ -1,6 +1,0 @@
-Removed Pin From Net: NetName=NetC7_2 Pin=J3-1
-Added Component: Designator=J4(2 Pin 5mm Terminal Block)
-Added Pin To Net: NetName=VCC Pin=J3-1
-Added Pin To Net: NetName=NetC7_2 Pin=J3-1
-Added Pin To Net: NetName=GND Pin=J3-2
-Added Member To Class: ClassName=Preamp Member=Component J4 Preamp Out
