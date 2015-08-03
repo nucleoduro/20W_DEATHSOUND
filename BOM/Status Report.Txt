@@ -1,6 +1,6 @@
 Project Outputs Generation Report
 ---------------------------------
-Start Output Generation At 19:15:02 On 11/07/2015
+Start Output Generation At 15:13:22 On 01/08/2015
 
 Output: Bill of Materials
 Type  : BOM
@@ -11,4 +11,4 @@ From  : Variant [[No Variations]] of Project [20W Deathsound.PrjPcb]
 Files Generated   : 1
 Documents Printed : 0
 
-Finished Output Generation At 19:15:08 On 11/07/2015
+Finished Output Generation At 15:13:28 On 01/08/2015
