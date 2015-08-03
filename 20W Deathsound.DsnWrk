@@ -1,4 +1,6 @@
 [ProjectGroup]
 Version=1.0
 [Project1]
-ProjectPath=20W Deathsound.PrjPcb
+ProjectPath=20W Deathsound Preamp.PrjPcb
+[Project2]
+ProjectPath=20W Deathsound Power Amp.PrjPcb
