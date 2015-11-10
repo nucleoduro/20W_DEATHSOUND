@@ -1,0 +1,3 @@
+Record=TopLevelDocument|FileName=Deathsound_preamp.SchDoc
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Deathsound_preamp.SchDoc|Designator=Preamp_ch1|SchDesignator=Repeat(Preamp_ch, 1, 2)|FileName=Deathsound_preamp_channel.SchDoc|SymbolType=Normal|RawFileName=Deathsound_preamp_channel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|Record=SheetSymbol|SourceDocument=Deathsound_preamp.SchDoc|Designator=Preamp_ch2|SchDesignator=Repeat(Preamp_ch, 1, 2)|FileName=Deathsound_preamp_channel.SchDoc|SymbolType=Normal|RawFileName=Deathsound_preamp_channel.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
